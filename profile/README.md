@@ -1,3 +1,5 @@
+
+
 # Welcome to the Inxton Organization
 
 Inxton is an umbrella organization for open-source and internal projects developed at [MTS](https://www.mts.sk/en/).  
@@ -16,5 +18,10 @@ There will be no changes to the licensing of any existing open-source projects.*
 
 The libraries and tools formerly known as the Inxton Vortex Framework will remain within this organization, as they form the technological foundation for TcOpen.
 However, there are currently no plans to open-source the Inxton Vortex Framework in its entirety.
+
+
+<a href="https://www.mts.sk/en">
+      <img src="https://github.com/ix-ax/.github/blob/main/profile/pics/mts_logo-header.svg" width="300"/>
+</a>
 
 
