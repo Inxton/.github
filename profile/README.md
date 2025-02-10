@@ -31,9 +31,6 @@ Currently, we are at a crossroads, and our path forward is uncertain. TcOpen is 
 
 We have also encountered considerable difficulties in updating TcOpen to build 4026 of TwinCAT3, and at this point, attempts to do so have been suspended.
 
-### TcOpen Framework and TcOpen application templates
-
-[TcOpen](https://github.com/Inxton/TcOpen) and [application templates](https://github.com/Inxton/tcopen-app-templates) 
 
 <a href="https://www.mts.sk/en">
       <img src="https://github.com/ix-ax/.github/blob/main/profile/pics/mts_logo-header.svg" width="300"/>
