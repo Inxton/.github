@@ -7,7 +7,7 @@ Our projects primarily focus on industrial automation, including application fra
 
 ## AX# and AXOpen projects
 
-AX# and AXOpen are under development and they they are build on top of `SIMATIC-AX` platform.
+AX# and AXOpen are under development and they are build on top of `SIMATIC-AX` platform.
 
 **As SIMATIC AX is currently in a limited release phase, kindly take note of the following:**
 
