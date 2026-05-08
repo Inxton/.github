@@ -25,7 +25,7 @@ Originally, TcOpen was developed under the [TcOpenGroup](https://github.com/TcOp
 
 ### Future of TcOpen
 
-The goal of the TcOpen project has been to provide the community with an advanced ecosystem enabling rapid development of industrial applications. Recently, Beckhoff announced a new system called PLC++ that could potentially address many of the challenges we encountered while building TcOpen on TwinCAT3. Some of these challenges were outlined by Jakob Sagatowski in [this YouTube video](https://www.youtube.com/watch?v=dgEsib42WaA&t=276s).
+The goal of the TcOpen project has been to provide the community with an advanced ecosystem enabling rapid development of industrial applications. Recently, Beckhoff announced a new system called PLC++ that could potentially address many of the challenges we encountered while building TcOpen on TwinCAT3. Some of these challenges were outlined by [Jakob Sagatowski](https://github.com/sagatowski) in [this YouTube video](https://www.youtube.com/watch?v=dgEsib42WaA&t=276s).
 
 Currently, we are at a crossroads, and our path forward is uncertain. TcOpen is widely used at MTS, and we will continue to maintain it to meet our internal needs. However, due to limited resources, we will not be able to provide support to external entities, and there are no specific plans to port TcOpen to the latest .NET frameworks.
 
